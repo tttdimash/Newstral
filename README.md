@@ -1,4 +1,4 @@
-# Newstral
+
 # Inspiration
 The inspiration for "Newstral" came from a deep-seated belief in the importance of reliable and unbiased news sources in today's information age. We were inspired by the need to counter misinformation and fake news with a platform that delivers accurate, trustworthy news to the public.
 
